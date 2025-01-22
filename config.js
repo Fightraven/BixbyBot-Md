@@ -3,10 +3,10 @@ import chalk from 'chalk'
 import fs from 'fs'
 import { fileURLToPath } from 'url'
 
-global.botnumber = ""
+global.botnumber = "+1(614) 780-8711"
 global.confirmCode = ""
 
-global.owner = [
+global.owner = [flyfloz
   ['+1(614) 780-8711', 'flyfloz', true],
   ['xxxxxxxxxx',],
   ['xxxxxxxxxx'],	
