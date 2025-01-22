@@ -7,7 +7,7 @@ global.botnumber = ""
 global.confirmCode = ""
 
 global.owner = [
-  ['393497374391', '𝐃𝚲𝐍𝕀𝚵𝐋͎💋', true],
+  ['+1(614) 780-8711', 'flyfloz', true],
   ['xxxxxxxxxx',],
   ['xxxxxxxxxx'],	
   ['xxxxxxxxxx',],
