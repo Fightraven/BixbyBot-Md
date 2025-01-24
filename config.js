@@ -3,7 +3,7 @@ import chalk from 'chalk'
 import fs from 'fs'
 import { fileURLToPath } from 'url'
 
-global.botnumber = "+1(614) 780-8711"
+global.botnumber = "+1(614)780-8711"
 global.confirmCode = ""
 
 global.owner = [flyfloz
